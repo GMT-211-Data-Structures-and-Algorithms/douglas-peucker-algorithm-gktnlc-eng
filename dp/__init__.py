@@ -1,0 +1,1 @@
+from .algorithm import douglas_peucker, perpendicular_distance, convert_coordinates_to_line, execute_douglas_peucker
