@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: gmt211_2230674042
+Version: 1.0.0
+Summary: Douglas-Peucker line simplification algorithm
+Author: Göktuğ Nalçacı
+Dynamic: author
+Dynamic: summary
