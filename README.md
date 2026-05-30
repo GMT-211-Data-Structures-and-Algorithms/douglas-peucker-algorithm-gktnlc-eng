@@ -49,3 +49,8 @@ print(result_list)
 ```bash
 python -m unittest unit_test.py -v
 ```
+## Documentation
+https://douglas-peucker-algorithm-gktnlc-eng.readthedocs.io/en/latest/
+
+## TestPyPI
+https://test.pypi.org/project/gmt211-2230674042/
