@@ -1,6 +1,6 @@
 from dp import *
 
-input_file = 'bodrum.geojson'
+input_file = 'antalya.geojson'
 out_file = 'out.geojson'
 epsilon = 0.01
 
